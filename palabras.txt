@@ -1,0 +1,48 @@
+private class App => Hola{
+    public static void main(int x) {
+        if 3 == 4 && 6 == x:-
+            do{
+                int x = 9;
+                x--;
+            }while(x==5);
+            while(true){
+                (int x) >> :-
+                    x = 9;
+                -:
+            }
+
+            num1 = num2 + num3 - num4 * num5 / num6;
+            array Array = 6, 3, 5;
+        -:
+        elif x != 4 && y == 9:-
+            foreach plurales => singular:-
+            int dad = 0;
+            -:
+            POWER = 5 ** 5;
+            ABSOLUTO = | e |;
+        -:
+        else:-
+            raizCuadrada = 3;
+            string x = 3;
+            for(i = 0; i < 9; i = i + 1){
+                i++;	
+			
+            }
+            switch y:-
+                case 5:-
+                x = 5;
+                break;
+                -:
+                case 6:-
+                y = 6;
+                break;
+                -:
+                default:-
+                hola = 0;
+		funcion(x);
+                break;
+                -:
+            -:
+        -:
+    }
+}
